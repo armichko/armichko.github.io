@@ -7,7 +7,7 @@ Style tiles save time and budget by clarifying a design direction before spendin
 ##How to begin?
 Before creating style tiles it is beneficial to have a definition of success, top user goals, top business goals, and maybe a few adjectives to describe what is desired of the outcome. These adjectives can later be incorporated into the style tiles. Sometimes this will require asking the client further questions about their preferences and goals if they are not already known. In cases that a client already has a brand defined, the style tiles and components within them will be a refresh of that brand.
 
-[style tile examples](images/style-tile-examples.png)
+![style tile examples](images/style-tile-examples.png)
 *Style tiles created for a new design direction for Usability First*
 
 Some possible components of a style tile are:
