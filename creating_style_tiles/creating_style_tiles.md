@@ -26,7 +26,7 @@ Other user interface components that are specifically relevant to the project at
 ###Practices that I’ve found helpful
 Everyone works differently, but when creating style tiles I’ve found that it is helpful to have a sort of “exploration” artboard (or page or file depending on what program you’re using). When I’m constrained to the style tile template right off the bat I tend to end up feeling stagnated and ideas just don’t flow as well. By having an exploration artboard I can try out a lot of different things before committing them to a style tile. The additional resources below contain a Sketch 3 format style tile template, as well as two sources that give an overview of traditional and less traditional style tiles.
 
-###Additional Resources:
+###Additional Resources
 [Style Tile Template for Sketch 3](https://github.com/armichko/Sketch3-StyleTile-Template)
 
 [http://styletil.es/](http://styletil.es/) 
