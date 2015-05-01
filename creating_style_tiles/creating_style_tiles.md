@@ -28,5 +28,7 @@ Everyone works differently, but when creating style tiles I’ve found that it i
 
 ##Additional Resources:
 [Style Tile Template for Sketch 3](https://github.com/armichko/Sketch3-StyleTile-Template)
+
 [http://styletil.es/](http://styletil.es/) 
+
 [https://echo.co/blog/style-tiles-no-its-not-home-page](https://echo.co/blog/style-tiles-no-its-not-home-page)
